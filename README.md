@@ -5,4 +5,6 @@ ex) 폴햄 스프링 페스타 티셔츠 -> 패션으로 분류, 삼성 갤럭�
 ## 개발환경
 Pycharm
 ## High Level Design
-<img src="./shopping_category_classification.png">
+<div align="center">
+<img src="./shopping_category_classification.png" width=150 height=600>
+</div>
