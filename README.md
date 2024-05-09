@@ -11,8 +11,9 @@ Pycharm
 
 ## 프로젝트 결과
 <img src="./img/coupang_model_prediction.png">
-죄측이미지 - 쿠팡 데이터로 학습시킨 모델의 쿠팡 카테고리 예측  
-우측이미지 - 쿠팡 데이터로 학습시킨 모델의 11번가 카테고리 예측
+죄측이미지 - 쿠팡 데이터로 학습시킨 모델의 쿠팡 카테고리 예측 <br/>
+우측이미지 - 쿠팡 데이터로 학습시킨 모델의 11번가 카테고리 예측 <br/>
+<br/>
 
 
 <img src="./img/all_model_prediction.png">
