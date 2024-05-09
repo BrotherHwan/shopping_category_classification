@@ -6,5 +6,12 @@ ex) 폴햄 스프링 페스타 티셔츠 -> 패션으로 분류, 삼성 갤럭�
 Pycharm
 ## High Level Design
 <div align="center">
-<img src="./shopping_category_classification.png" width=200 height=600>
+<img src="./img/shopping_category_classification_HLD.png" width=200 height=600>
 </div>
+
+## 프로젝트 결과
+<img src="./img/coupag_model_prediction.png">
+죄측이미지 - 쿠팡 데이터로 학습시킨 모델의 쿠팡 카테고리 예측
+우측이미지 - 쿠팡 데이터로 학습시킨 모델의 11번가 카테고리 예측
+<img src="./img/all_model_prediction.png">
+모든 웹사이트의 데이터로 학습시킨 모델의 카테고리 예측
