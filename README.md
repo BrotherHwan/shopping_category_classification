@@ -14,4 +14,4 @@ Pycharm
 <img src="./img/coupang_model_prediction.png" width=1200 height=600>
 
 ### 모든 웹사이트의 데이터로 학습시킨 모델의 모든 웹사이트 카테고리 예측
-<img src="./img/all_model_prediction.png">
+<img src="./img/all_model_prediction.png" width=800 height=400>
