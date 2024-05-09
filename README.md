@@ -11,7 +11,7 @@ Pycharm
 
 ## 프로젝트 결과
 ### 쿠팡 데이터로 학습시킨 모델의 쿠팡 카테고리 예측과 쿠팡 데이터로 학습시킨 모델의 11번가 카테고리 예측
-<img src="./img/coupang_model_prediction.png" width=900 height=700>
+<img src="./img/coupang_model_prediction.png" width=1100 height=700>
 
 ### 모든 웹사이트의 데이터로 학습시킨 모델의 모든 웹사이트 카테고리 예측
 <img src="./img/all_model_prediction.png">
