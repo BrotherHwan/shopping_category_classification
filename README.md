@@ -9,6 +9,9 @@ Pycharm
 <img src="./img/shopping_category_classification_HLD.png" width=200 height=600>
 </div>
 
+## 수행역할
+자연어처리를 담당했으며, 크롤링 과정에서 발생하는 문제 해결에도 참여했습니다.
+
 ## 프로젝트 결과
 ### 쿠팡 데이터로 학습시킨 모델의 쿠팡 카테고리 예측과 쿠팡 데이터로 학습시킨 모델의 11번가 카테고리 예측
 <img src="./img/coupang_model_prediction.png" width=1200 height=600>
